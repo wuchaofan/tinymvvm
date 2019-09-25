@@ -1,0 +1,9 @@
+{
+  "name": "tinymvvm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^1.21.4"
+  }
+}
